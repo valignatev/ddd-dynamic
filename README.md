@@ -12,3 +12,15 @@ So let's go!
 
 [DDD - Domain Driven Design, which development order should be applied?](http://programmers.stackexchange.com/q/235170/237421) - Python
 
+## Slides founded in slideshare or anywhere else
+[Hexagonal design in Django](http://www.slideshare.net/mvschaik/hexagonal) - Python, Django, contains some code.
+
+[Domain Driven Design com Python](http://www.slideshare.net/FredericoCabral2/domain-driven-design-com-python) - slides in Spanish, but contains some useful code in Python, might be helpful. 
+
+## Articles, blogs etc
+[Value Objects in Java & Python](https://stevewedig.com/2014/07/31/value-objects-in-java-and-python/) - about `Value Object`, comparison of value objects in Java and Python
+
+[Domain Driven Design methodic Python](https://github.com/anthony-tresontani/methodic-python/blob/master/DomainDrivenDesign.rst) - A little summary about DDD in Python
+
+[Exploring domains with python](http://www.ballofcode.com/python/domain-driven-design/2013/12/22/exploring-domains-with-python) - A little article with example of `Repository` and `Storage` classes
+
