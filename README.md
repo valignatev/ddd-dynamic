@@ -1,5 +1,5 @@
 # Domain Driven Design in dynamic languages
-This is an attempt to collect all info about Domain Driven Design the World knows in dynamic languages (Python, Ruby etc.). Not only DDD but all worthy info about separation business logic from application code.
+This is an attempt to collect all info about Domain Driven Design the World knows in dynamic languages (Python, Ruby, PHP etc). Not only DDD but all worthy info about separation business logic from application code.
 
 So let's go!
 
@@ -18,6 +18,8 @@ So let's go!
 [Domain Driven Design com Python](http://www.slideshare.net/FredericoCabral2/domain-driven-design-com-python) - slides in Spanish, but contains some useful code in Python
 
 ## Articles, blogs etc
+[Domain-Driven Design and MVC Architectures](https://blog.fedecarg.com/2009/03/11/domain-driven-design-and-mvc-architectures/) - two articles from Federico Cargnelutti with PHP examples in second part
+
 [Value Objects in Java & Python](https://stevewedig.com/2014/07/31/value-objects-in-java-and-python/) - about `Value Object`, comparison of value objects in Java and Python
 
 [Domain Driven Design methodic Python](https://github.com/anthony-tresontani/methodic-python/blob/master/DomainDrivenDesign.rst) - A little summary about DDD in Python
@@ -36,3 +38,18 @@ So let's go!
 [Domain Driven Design and Hexagonal Architecture with Rails](https://www.youtube.com/watch?v=_rbF97T4480) - Ruby on Rails talk from RailsConf 2014 by Eric Roberts and Declan Whelan with code examples
 
 [Hexagonal Rails](https://www.youtube.com/watch?v=CGN4RFkhH2M) - Ruby on Rails, GoRuCo 2012 by Matt Wynne
+
+## Code, code, code!
+[Ruby DDD Sample App](https://github.com/paulrayner/ddd_sample_app_ruby) - Port of DDD Sample Application written in Java in Ruby. Definitely worth reading.
+
+[DDD in Djnago](https://github.com/basco-johnkevin/ddd-python-django) - An attempt to implement DDD and hexagonal architecture in Django
+
+[DDD in Flask](https://github.com/MichaelDiBernardo/ddd-flask-example) - A terse example of DDD-inspired architecture using Flask
+
+[Kanban in Python](https://bitbucket.org/sixty-north/d5-kanban-python) - Python implementation of simple kanban board with DDD approach.
+
+[Kanban in Clojure](https://bitbucket.org/sixty-north/d5-kanban-clojure) - Same in Clojure
+
+[Kanban in Python exercises](https://bitbucket.org/sixty-north/d5-workshop-exercises-student-material) - Same board devided on exercises for students of some workshop by Sixty-North. 
+
+[Rewind](https://github.com/JensRantil/rewind) - Rewind is a (CQRS) event store server written in Python. Not that it written with DDD approach but still related.
