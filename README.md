@@ -15,7 +15,7 @@ So let's go!
 ## Slides founded in slideshare or anywhere else
 [Hexagonal design in Django](http://www.slideshare.net/mvschaik/hexagonal) - Python, Django, contains some code.
 
-[Domain Driven Design com Python](http://www.slideshare.net/FredericoCabral2/domain-driven-design-com-python) - slides in Spanish, but contains some useful code in Python, might be helpful. 
+[Domain Driven Design com Python](http://www.slideshare.net/FredericoCabral2/domain-driven-design-com-python) - slides in Spanish, but contains some useful code in Python
 
 ## Articles, blogs etc
 [Value Objects in Java & Python](https://stevewedig.com/2014/07/31/value-objects-in-java-and-python/) - about `Value Object`, comparison of value objects in Java and Python
@@ -24,3 +24,15 @@ So let's go!
 
 [Exploring domains with python](http://www.ballofcode.com/python/domain-driven-design/2013/12/22/exploring-domains-with-python) - A little article with example of `Repository` and `Storage` classes
 
+[DDD FOR RAILS DEVELOPERS](http://victorsavkin.com/ddd) - whole blog by Victor Savkin
+
+## Talks, videos
+[Domain-Driven Design with Python](https://skillsmatter.com/skillscasts/5025-domain-driven-design-with-python) - Great talk about DDD and Python with explanations of many DDD topics and code examples by Robert Smallshire from Skills Matter
+
+[The Clean Architecture in Python](https://www.youtube.com/watch?v=DJtef410XaM) - Awesome talk on PyOhio2014 from Brandon Rhodes
+
+[Hexagonal architecture in Django](https://www.youtube.com/watch?v=tKEv9Enhm1Q) Talk in Russin, contains code examples and project layout
+
+[Domain Driven Design and Hexagonal Architecture with Rails](https://www.youtube.com/watch?v=_rbF97T4480) - Ruby on Rails talk from RailsConf 2014 by Eric Roberts and Declan Whelan with code examples
+
+[Hexagonal Rails](https://www.youtube.com/watch?v=CGN4RFkhH2M) - Ruby on Rails, GoRuCo 2012 by Matt Wynne
