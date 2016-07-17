@@ -41,6 +41,10 @@ So let's go!
 
 [Hexagonal Architecture in DDD](https://www.youtube.com/watch?v=u6oTg5oRH24) - Golf with DDD in PHP by Gordon Skinner from PHP UK Conference
 
+[Boundaries Python](https://www.youtube.com/watch?v=eOYal8elnZk) - Talk about `Boundaries` by Gary Bernhardt from Pycon US 2013
+
+[Boundaries Ruby](https://www.youtube.com/watch?v=yTkzNHF6rMs) - Same talk by Gary Bernhardt but in Ruby from Ruby Conf 12. Contains QA section.
+
 ## Code, code, code!
 [Ruby DDD Sample App](https://github.com/paulrayner/ddd_sample_app_ruby) - Port of DDD Sample Application written in Java in Ruby. Definitely worth reading.
 
