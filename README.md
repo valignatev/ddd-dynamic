@@ -39,6 +39,8 @@ So let's go!
 
 [Hexagonal Rails](https://www.youtube.com/watch?v=CGN4RFkhH2M) - Ruby on Rails, GoRuCo 2012 by Matt Wynne
 
+[Hexagonal Architecture in DDD](https://www.youtube.com/watch?v=u6oTg5oRH24) - Golf with DDD in PHP by Gordon Skinner from PHP UK Conference
+
 ## Code, code, code!
 [Ruby DDD Sample App](https://github.com/paulrayner/ddd_sample_app_ruby) - Port of DDD Sample Application written in Java in Ruby. Definitely worth reading.
 
