@@ -18,6 +18,8 @@ So let's go!
 [Domain Driven Design com Python](http://www.slideshare.net/FredericoCabral2/domain-driven-design-com-python) - slides in Spanish, but contains some useful code in Python
 
 ## Articles, blogs etc
+[DDD for Rails developers](http://victorsavkin.com/ddd) - whole blog by Victor Savkin about DDD in Ruby on Rails
+
 [Domain-Driven Design and MVC Architectures](https://blog.fedecarg.com/2009/03/11/domain-driven-design-and-mvc-architectures/) - two articles from Federico Cargnelutti with PHP examples in second part
 
 [Value Objects in Java & Python](https://stevewedig.com/2014/07/31/value-objects-in-java-and-python/) - about `Value Object`, comparison of value objects in Java and Python
@@ -25,8 +27,6 @@ So let's go!
 [Domain Driven Design methodic Python](https://github.com/anthony-tresontani/methodic-python/blob/master/DomainDrivenDesign.rst) - A little summary about DDD in Python
 
 [Exploring domains with python](http://www.ballofcode.com/python/domain-driven-design/2013/12/22/exploring-domains-with-python) - A little article with example of `Repository` and `Storage` classes
-
-[DDD FOR RAILS DEVELOPERS](http://victorsavkin.com/ddd) - whole blog by Victor Savkin
 
 ## Talks, videos
 [Domain-Driven Design with Python](https://skillsmatter.com/skillscasts/5025-domain-driven-design-with-python) - Great talk about DDD and Python with explanations of many DDD topics and code examples by Robert Smallshire from Skills Matter
