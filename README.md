@@ -15,7 +15,7 @@ So let's go!
 ## Slides founded in slideshare or anywhere else
 [Hexagonal design in Django](http://www.slideshare.net/mvschaik/hexagonal) - Python, Django, contains some code.
 
-[Domain Driven Design com Python](http://www.slideshare.net/FredericoCabral2/domain-driven-design-com-python) - slides in Spanish, but contains some useful code in Python
+[Domain Driven Design com Python](http://www.slideshare.net/FredericoCabral2/domain-driven-design-com-python) - slides in Portuguese, but contains some useful code in Python
 
 ## Articles, blogs etc
 [DDD for Rails developers](http://victorsavkin.com/ddd) - whole blog by Victor Savkin about DDD in Ruby on Rails
