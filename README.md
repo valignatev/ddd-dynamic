@@ -18,7 +18,7 @@ So let's go!
 [Domain Driven Design com Python](http://www.slideshare.net/FredericoCabral2/domain-driven-design-com-python) - slides in Portuguese, but contains some useful code in Python
 
 ## Articles, blogs etc
-[DDD for Rails developers](http://victorsavkin.com/ddd) - whole blog by Victor Savkin about DDD in Ruby on Rails
+[DDD for Rails developers](https://www.sitepoint.com/series/ddd-for-rails-developers/) - whole blog by Victor Savkin about DDD in Ruby on Rails
 
 [Domain-Driven Design and MVC Architectures](https://blog.fedecarg.com/2009/03/11/domain-driven-design-and-mvc-architectures/) - two articles from Federico Cargnelutti with PHP examples in second part
 
