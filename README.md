@@ -1,5 +1,5 @@
 # Domain Driven Design in dynamic languages
-This is an attempt to collect all info about Domain Driven Design the World knows in dynamic languages (Python, Ruby, PHP etc). Not only DDD but all worthy info about separation business logic from application code.
+This is an attempt to collect all info about Domain Driven Design the World knows in dynamic languages (Python, Ruby, PHP etc). Not only DDD but all worthy info about layered and clean architecture with separation of business logic from infrastructure and framework code.
 
 So let's go!
 
@@ -27,6 +27,8 @@ So let's go!
 [Domain Driven Design methodic Python](https://github.com/anthony-tresontani/methodic-python/blob/master/DomainDrivenDesign.rst) - A little summary about DDD in Python
 
 [Exploring domains with python](http://www.ballofcode.com/python/domain-driven-design/2013/12/22/exploring-domains-with-python) - A little article with example of `Repository` and `Storage` classes
+
+[Clean architectures in Python: a step-by-step example](http://blog.thedigitalcatonline.com/blog/2016/11/14/clean-architectures-in-python-a-step-by-step-example/) - Implementation of Uncle Bob's Clean Architecture in Python. Contains step by step explanation and github repo with all code.
 
 ## Talks, videos
 [Domain-Driven Design with Python](https://skillsmatter.com/skillscasts/5025-domain-driven-design-with-python) - Great talk about DDD and Python with explanations of many DDD topics and code examples by Robert Smallshire from Skills Matter
