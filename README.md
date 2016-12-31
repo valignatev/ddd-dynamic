@@ -12,6 +12,8 @@ So let's go!
 
 [DDD - Domain Driven Design, which development order should be applied?](http://programmers.stackexchange.com/q/235170/237421) - Python
 
+[Retrieving aggregates from inside of other aggregates](http://stackoverflow.com/q/29456899/3606603) - StackOverflow question about aggregates in Python application
+
 ## Slides founded in slideshare or anywhere else
 [Hexagonal design in Django](http://www.slideshare.net/mvschaik/hexagonal) - Python, Django, contains some code.
 
