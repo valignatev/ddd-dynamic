@@ -51,6 +51,10 @@ So let's go!
 
 [Boundaries Ruby](https://www.youtube.com/watch?v=yTkzNHF6rMs) - Same talk by Gary Bernhardt but in Ruby from Ruby Conf 12. Contains QA section.
 
+[Hexagonal TDD](https://www.youtube.com/channel/UCCptggI2qaxsBXiwfit6tNQ) - TDD implementation of hexagonal architecture of rails application. In 3 parts.
+
+[Jim Weirich on Decoupling from Rails](https://www.youtube.com/watch?v=tg5RFeSfBM4) - Showcase from Jim Weirich from October CincyRb.
+
 ## Code, code, code!
 [Ruby DDD Sample App](https://github.com/paulrayner/ddd_sample_app_ruby) - Port of DDD Sample Application written in Java in Ruby. Definitely worth reading.
 
