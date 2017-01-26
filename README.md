@@ -72,4 +72,4 @@ So let's go!
 
 ## Training
 
-[DDD Patterns in Python](http://sixty-north.com/domain_driven_design_in_python.html) - Sixty North offers two-day classroom training on implementing DDD in Python with relational or event-sourced persistence.
+[DDD Patterns in Python](http://sixty-north.com/domain_driven_design_in_python.html) - Sixty North offers two-day classroom training on implementing DDD in Python with relational or event-sourced persistence. (Paid)
