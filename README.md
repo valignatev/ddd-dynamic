@@ -58,7 +58,7 @@ So let's go!
 ## Code, code, code!
 [Ruby DDD Sample App](https://github.com/paulrayner/ddd_sample_app_ruby) - Port of DDD Sample Application written in Java in Ruby. Definitely worth reading.
 
-[DDD in Djnago](https://github.com/basco-johnkevin/ddd-python-django) - An attempt to implement DDD and hexagonal architecture in Django
+[DDD in Django](https://github.com/basco-johnkevin/ddd-python-django) - An attempt to implement DDD and hexagonal architecture in Django
 
 [DDD in Flask](https://github.com/MichaelDiBernardo/ddd-flask-example) - A terse example of DDD-inspired architecture using Flask
 
