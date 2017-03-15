@@ -34,6 +34,8 @@ So let's go!
 
 [Large web apps in Python: A good architecture](http://nando.oui.com.br/2014/04/01/large_apps_with_sqlalchemy__architecture.html) - Article with a point that MVC is not enough for large applications and you need separate layer for business logic.
 
+[DDD + Ruby subreddit](https://www.reddit.com/r/ddd_ruby/) - A subreddit for Ruby developers interested in Domain-Driven Design.
+
 ## Talks, videos
 [Domain-Driven Design with Python](https://skillsmatter.com/skillscasts/5025-domain-driven-design-with-python) - Great talk about DDD and Python with explanations of many DDD topics and code examples by Robert Smallshire from Skills Matter
 
