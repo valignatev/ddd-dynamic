@@ -72,6 +72,8 @@ So let's go!
 
 [Rewind](https://github.com/JensRantil/rewind) - Rewind is a (CQRS) event store server written in Python. Not that it written with DDD approach but still related.
 
+[The Clean Architecture with Python](https://www.reddit.com/r/Python/comments/41llbh/the_clean_architecture_with_python/) - Reddit discussion about the topic and [this](https://gist.github.com/justanr/1f38e09caad47bd0d927) gist with proposed architecture and some comments on it.
+
 ## Training
 
 [DDD Patterns in Python](http://sixty-north.com/domain_driven_design_in_python.html) - Sixty North offers two-day classroom training on implementing DDD in Python with relational or event-sourced persistence. (Paid)
