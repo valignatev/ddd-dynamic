@@ -74,6 +74,8 @@ So let's go!
 
 [The Clean Architecture with Python](https://www.reddit.com/r/Python/comments/41llbh/the_clean_architecture_with_python/) - Reddit discussion about the topic and [this](https://gist.github.com/justanr/1f38e09caad47bd0d927) gist with proposed architecture and some comments on it.
 
+[abidria-api](https://github.com/jordifierro/abidria-api) - Django application written with clean architecture. There also an [article](https://engineering.21buttons.com/clean-architecture-in-django-d326a4ab86a9) by Jordi Fierro which explains architecture components and how they interact with each other.
+
 ## Training
 
 [DDD Patterns in Python](http://sixty-north.com/domain_driven_design_in_python.html) - Sixty North offers two-day classroom training on implementing DDD in Python with relational or event-sourced persistence. (Paid)
