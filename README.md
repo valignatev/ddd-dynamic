@@ -19,6 +19,8 @@ So let's go!
 
 [Domain Driven Design com Python](http://www.slideshare.net/FredericoCabral2/domain-driven-design-com-python) - slides in Portuguese, but contains some useful code in Python
 
+[Clean Architecture Python (web) apps](http://slides.com/haxoza/clean-architecture-python#/) - Przemek Lewandowski about application of Uncle Bob's Clean Architecture to Python web apps with code examples and type annotations
+
 ## Articles, blogs etc
 [DDD for Rails developers](https://www.sitepoint.com/series/ddd-for-rails-developers/) - whole blog by Victor Savkin about DDD in Ruby on Rails
 
