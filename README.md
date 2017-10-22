@@ -38,6 +38,8 @@ So let's go!
 
 [DDD + Ruby subreddit](https://www.reddit.com/r/ddd_ruby/) - A subreddit for Ruby developers interested in Domain-Driven Design.
 
+[Arkency blog and newsletter](http://blog.arkency.com/) - They write about DDD, Event Sourcing and testing in Ruby/Rails a lot. Not just plain text, but code and even webinars occasionally.
+
 ## Talks, videos
 [Domain-Driven Design with Python](https://skillsmatter.com/skillscasts/5025-domain-driven-design-with-python) - Great talk about DDD and Python with explanations of many DDD topics and code examples by Robert Smallshire from Skills Matter
 
