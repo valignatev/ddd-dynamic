@@ -80,7 +80,7 @@ So let's go!
 
 [abidria-api](https://github.com/jordifierro/abidria-api) - Django application written with clean architecture. There also an [article](https://engineering.21buttons.com/clean-architecture-in-django-d326a4ab86a9) by Jordi Fierro which explains architecture components and how they interact with each other.
 
-[Hanami-rb](http://hanamirb.org/guides/1.1/getting-started/) - A good option out of the Rails world, Hanami is an emerging framework that encourages and helps to design DDD applications in Ruby. The getting started by itself explains some DDD concepts and how they fits inside the framework.
+[Hanami-rb](http://hanamirb.org/) - A good option out of the Rails world, Hanami is an emerging framework that encourages and helps to design DDD applications in Ruby. The [getting started guide](http://hanamirb.org/guides/1.1/getting-started/) references some DDD concepts and how they fit inside the framework.
 
 ## Training
 
