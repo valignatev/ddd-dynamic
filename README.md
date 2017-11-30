@@ -40,6 +40,8 @@ So let's go!
 
 [Arkency blog and newsletter](http://blog.arkency.com/) - They write about DDD, Event Sourcing and testing in Ruby/Rails a lot. Not just plain text, but code and even webinars occasionally.
 
+[Hanami em Production – 2 anos depois](https://diariodebordo.creditas.com.br/hanami-em-production-2-anos-depois-parte-1/): post in Portuguese describing the experience of [Creditas](https://www.creditas.com.br/) at building and maintaining its core app (60k lines of code + 2m request/month) with DDD in Ruby using [Hanami](#user-content-hanami) framework.
+
 ## Talks, videos
 [Domain-Driven Design with Python](https://skillsmatter.com/skillscasts/5025-domain-driven-design-with-python) - Great talk about DDD and Python with explanations of many DDD topics and code examples by Robert Smallshire from Skills Matter
 
@@ -80,7 +82,7 @@ So let's go!
 
 [abidria-api](https://github.com/jordifierro/abidria-api) - Django application written with clean architecture. There also an [article](https://engineering.21buttons.com/clean-architecture-in-django-d326a4ab86a9) by Jordi Fierro which explains architecture components and how they interact with each other.
 
-[Hanami-rb](http://hanamirb.org/) - A good option out of the Rails world, Hanami is an emerging framework that encourages and helps to design DDD applications in Ruby. The [getting started guide](http://hanamirb.org/guides/1.1/getting-started/) references some DDD concepts and how they fit inside the framework.
+<a name="hanami" href="http://hanamirb.org/">Hanami-rb</a> - A good option out of the Rails world, Hanami is an emerging framework that encourages and helps to design DDD applications in Ruby. The [getting started guide](http://hanamirb.org/guides/1.1/getting-started/) references some DDD concepts and how they fit inside the framework.
 
 ## Training
 
