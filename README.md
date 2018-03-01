@@ -34,7 +34,7 @@ So let's go!
 
 [Clean architectures in Python: a step-by-step example](http://blog.thedigitalcatonline.com/blog/2016/11/14/clean-architectures-in-python-a-step-by-step-example/) - Implementation of Uncle Bob's Clean Architecture in Python. Contains step by step explanation and github repo with all code.
 
-[Large web apps in Python: A good architecture](http://nando.oui.com.br/2014/04/01/large_apps_with_sqlalchemy__architecture.html) - Article with a point that MVC is not enough for large applications and you need separate layer for business logic.
+[Large web apps in Python: A good architecture](http://dev.nando.audio/2014/04/01/large_apps_with_sqlalchemy__architecture.html) - Article with a point that MVC is not enough for large applications and you need separate layer for business logic.
 
 [DDD + Ruby subreddit](https://www.reddit.com/r/ddd_ruby/) - A subreddit for Ruby developers interested in Domain-Driven Design.
 
