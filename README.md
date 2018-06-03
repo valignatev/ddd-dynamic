@@ -21,6 +21,8 @@ So let's go!
 
 [Clean Architecture Python (web) apps](http://slides.com/haxoza/clean-architecture-python#/) - Przemek Lewandowski about application of Uncle Bob's Clean Architecture to Python web apps with code examples and type annotations
 
+[From Active Record to Events](https://www.slideshare.net/emadb/wroclove-rb) - Emanuele DelBono about using DDD/CQRS/ES in ruby on rails applications
+
 ## Articles, blogs etc
 [DDD for Rails developers](https://www.sitepoint.com/series/ddd-for-rails-developers/) - whole blog by Victor Savkin about DDD in Ruby on Rails
 
@@ -63,6 +65,8 @@ So let's go!
 
 [Jim Weirich on Decoupling from Rails](https://www.youtube.com/watch?v=tg5RFeSfBM4) - Showcase from Jim Weirich from October CincyRb.
 
+[From Active Record to Events](https://www.youtube.com/watch?v=GaGBfDe7r9Y) - A talk by Emanuele DelBono from Wroclove.rb about DDD/CQRS/ES in Ruby and Ruby on Rails.
+
 ## Code, code, code!
 [Ruby DDD Sample App](https://github.com/paulrayner/ddd_sample_app_ruby) - Port of DDD Sample Application written in Java in Ruby. Definitely worth reading.
 
@@ -83,6 +87,8 @@ So let's go!
 [abidria-api](https://github.com/jordifierro/abidria-api) - Django application written with clean architecture. There also an [article](https://engineering.21buttons.com/clean-architecture-in-django-d326a4ab86a9) by Jordi Fierro which explains architecture components and how they interact with each other.
 
 <a name="hanami" href="http://hanamirb.org/">Hanami-rb</a> - A good option out of the Rails world, Hanami is an emerging framework that encourages and helps to design DDD applications in Ruby. The [getting started guide](http://hanamirb.org/guides/1.1/getting-started/) references some DDD concepts and how they fit inside the framework.
+
+[Revents](https://github.com/emadb/revents) - A possibile implementation of a DDD/CQRS/ES in Ruby and Ruby on Rails
 
 ## Training
 
