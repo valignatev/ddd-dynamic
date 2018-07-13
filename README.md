@@ -71,6 +71,8 @@ So let's go!
 
 [Built to last: A domain-driven approach to beautiful systems](https://www.youtube.com/watch?v=52qChRS4M0Y) - RailsConf 2017 talk by Andrew Hao. Techniques for refactoring legacy codebase to DDD style, design overview and code examples. 
 
+[Technically DDD](https://www.youtube.com/watch?v=JpcNeeetijo) - Fantastic talk by Pim Elshoff on getting started with DDD using Value Objects, Entities and Services in PHP
+
 ## Code, code, code!
 [Ruby DDD Sample App](https://github.com/paulrayner/ddd_sample_app_ruby) - Port of DDD Sample Application written in Java in Ruby. Definitely worth reading.
 
