@@ -96,6 +96,8 @@ So let's go!
 
 [Revents](https://github.com/emadb/revents) - A possibile implementation of a DDD/CQRS/ES in Ruby and Ruby on Rails
 
+[DDD Rails Sample](https://github.com/mcapanema/ddd-rails-example) - project meant to be used as a start point for those who want to build Domain Driven Design applications in Rails.
+
 ## Training
 
 [DDD Patterns in Python](http://sixty-north.com/domain_driven_design_in_python.html) - Sixty North offers two-day classroom training on implementing DDD in Python with relational or event-sourced persistence. (Paid)
