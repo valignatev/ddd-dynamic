@@ -3,6 +3,9 @@ This is an attempt to collect all info about Domain Driven Design the World know
 
 So let's go!
 
+## Books
+[Clean Architectures in Python](https://leanpub.com/clean-architectures-in-python) - Book by Leonardo Giordani based on [his](http://blog.thedigitalcatonline.com/blog/2016/11/14/clean-architectures-in-python-a-step-by-step-example/) post
+
 ## Stack exchange resources
 [Separation of business logic and data access in django](http://stackoverflow.com/q/12578908/3606603) - Python, Django
 
