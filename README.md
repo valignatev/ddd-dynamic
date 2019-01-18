@@ -76,6 +76,8 @@ So let's go!
 
 [Technically DDD](https://www.youtube.com/watch?v=JpcNeeetijo) - Fantastic talk by Pim Elshoff on getting started with DDD using Value Objects, Entities and Services in PHP
 
+[Applying Domain Driven Design and Reactive Architectures to Functional Programming](https://www.youtube.com/watch?v=kq4qTk18N-c) - a talk by Rob Martin from ElixirConf 2017.
+
 ## Code, code, code!
 [Ruby DDD Sample App](https://github.com/paulrayner/ddd_sample_app_ruby) - Port of DDD Sample Application written in Java in Ruby. Definitely worth reading.
 
