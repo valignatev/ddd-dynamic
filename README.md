@@ -83,6 +83,8 @@ So let's go!
 [Perhap: Applying Domain Driven Design and Reactive Architectures to Functional Programming](https://www.youtube.com/watch?v=kq4qTk18N-c) - a talk by Rob Martin from ElixirConf 2017.
 
 ## Code, code, code!
+[dry-python](https://github.com/dry-python) - A set of Python libraries for pluggable business logic components.
+
 [Ruby DDD Sample App](https://github.com/paulrayner/ddd_sample_app_ruby) - Port of DDD Sample Application written in Java in Ruby. Definitely worth reading.
 
 [DDD in Django](https://github.com/basco-johnkevin/ddd-python-django) - An attempt to implement DDD and hexagonal architecture in Django
