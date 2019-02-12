@@ -5,6 +5,7 @@ So let's go!
 
 ## Books
 [Clean Architectures in Python](https://leanpub.com/clean-architectures-in-python) - Book by Leonardo Giordani based on [his](http://blog.thedigitalcatonline.com/blog/2016/11/14/clean-architectures-in-python-a-step-by-step-example/) post
+[Domain-Driven Rails](https://blog.arkency.com/domain-driven-rails/) - a book by Robert Pankowecki & Arkency Team about DDD, CQRS, Event Sourcing related to Rails projects.
 
 ## Stack exchange resources
 [Separation of business logic and data access in django](http://stackoverflow.com/q/12578908/3606603) - Python, Django
