@@ -107,6 +107,8 @@ So let's go!
 
 [DDD Rails Sample](https://github.com/mcapanema/ddd-rails-example) - project meant to be used as a start point for those who want to build Domain Driven Design applications in Rails.
 
-## Training
+## Paid training and workshops
 
-[DDD Patterns in Python](http://sixty-north.com/domain_driven_design_in_python.html) - Sixty North offers two-day classroom training on implementing DDD in Python with relational or event-sourced persistence. (Paid)
+[DDD Patterns in Python](http://sixty-north.com/domain_driven_design_in_python.html) - Sixty North offers two-day classroom training on implementing DDD in Python with relational or event-sourced persistence.
+
+[Rails + Domain Driven Design Workshop](https://blog.arkency.com/ddd-training/) - workshops by Arkency. The page should have a schedule for future workshops and a summary of what to expect from them.
