@@ -56,6 +56,8 @@ So let's go!
 ## Talks, videos
 [Domain-Driven Design with Python](https://skillsmatter.com/skillscasts/5025-domain-driven-design-with-python) - Great talk about DDD and Python with explanations of many DDD topics and code examples by Robert Smallshire from Skills Matter
 
+[Domain-Driven Design Patterns in Python](https://www.youtube.com/watch?v=Ru2T4fu3bGQ) - Detailed talk about DDD patterns in Python by Robert Smallshire from EuroPython 2018
+
 [The Clean Architecture in Python](https://www.youtube.com/watch?v=DJtef410XaM) - Awesome talk on PyOhio2014 from Brandon Rhodes
 
 [Hexagonal architecture in Django](https://www.youtube.com/watch?v=tKEv9Enhm1Q) Talk in Russian by [@proofit404](https://github.com/proofit404), contains code examples and project layout
