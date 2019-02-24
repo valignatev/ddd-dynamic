@@ -84,6 +84,8 @@ So let's go!
 
 [Perhap: Applying Domain Driven Design and Reactive Architectures to Functional Programming](https://www.youtube.com/watch?v=kq4qTk18N-c) - a talk by Rob Martin from ElixirConf 2017.
 
+[Clean Architecture](https://www.youtube.com/watch?v=18IqltQ4XE4) - PyGotham 2018 talk by Sebastian Buczyński with [code](https://github.com/Enforcer/clean-architecture-example-1) and [slides](https://speakerdeck.com/enforcer/clean-architecture-in-python). There is also a [blog post](https://geek.justjoin.it/czysta-architektura-pythonie-stworzyc-testowalny-elastyczny-kod/) in Polish
+
 ## Code, code, code!
 [dry-python](https://github.com/dry-python) - A set of Python libraries for pluggable business logic components.
 
