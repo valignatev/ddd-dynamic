@@ -19,16 +19,24 @@ So let's go!
 
 [Retrieving aggregates from inside of other aggregates](http://stackoverflow.com/q/29456899/3606603) - StackOverflow question about aggregates in Python application
 
-## Slides founded in slideshare or anywhere else
-[Hexagonal design in Django](http://www.slideshare.net/mvschaik/hexagonal) - Python, Django, contains some code.
+## Slides found in slideshare or anywhere else
 
-[Domain Driven Design com Python](http://www.slideshare.net/FredericoCabral2/domain-driven-design-com-python) - slides in Portuguese, but contains some useful code in Python
+[Avoiding the domino effect in our services (SOLID at macro-design level)](https://www.slideshare.net/CodelyTV/avoiding-the-domino-effect-in-our-microservices-solid-at-macrodesign-level)
 
 [Clean Architecture Python (web) apps](http://slides.com/haxoza/clean-architecture-python#/) - Przemek Lewandowski about application of Uncle Bob's Clean Architecture to Python web apps with code examples and type annotations
 
+[Domain Driven Design com Python](http://www.slideshare.net/FredericoCabral2/domain-driven-design-com-python) - slides in Portuguese, but contains some useful code in Python
+
 [From Active Record to Events](https://www.slideshare.net/emadb/wroclove-rb) - Emanuele DelBono about using DDD/CQRS/ES in ruby on rails applications
 
+[From framework coupled code to microservices through DDD](https://www.slideshare.net/CodelyTV/from-framework-coupled-code-to-microservices-through-ddd-modules-by-codelytv)
+
+[Hexagonal design in Django](http://www.slideshare.net/mvschaik/hexagonal) - Python, Django, contains some code.
+
+[Microservices: Improving the autonomy of our teams with Event-Driven Architecture](https://www.slideshare.net/CodelyTV/microservices-improving-the-autonomy-of-our-teams-with-eventdriven-architecture-cas2018)
+
 ## Articles, blogs etc
+
 [DDD for Rails developers](https://www.sitepoint.com/series/ddd-for-rails-developers/) - whole blog by Victor Savkin about DDD in Ruby on Rails
 
 [Domain-Driven Design and MVC Architectures](https://blog.fedecarg.com/2009/03/11/domain-driven-design-and-mvc-architectures/) - two articles from Federico Cargnelutti with PHP examples in second part
@@ -54,6 +62,7 @@ So let's go!
 [How to Improve on Naming Contexts in Domain-Driven Design](https://userinterfacing.com/how-to-improve-on-naming-contexts-in-domain-driven-design/) - Describes technique of how to find a better name for your bounded contexts.
 
 ## Talks, videos
+
 [Domain-Driven Design with Python](https://skillsmatter.com/skillscasts/5025-domain-driven-design-with-python) - Great talk about DDD and Python with explanations of many DDD topics and code examples by Robert Smallshire from Skills Matter
 
 [Domain-Driven Design Patterns in Python](https://www.youtube.com/watch?v=Ru2T4fu3bGQ) - Detailed talk about DDD patterns in Python by Robert Smallshire from EuroPython 2018
@@ -87,6 +96,7 @@ So let's go!
 [Clean Architecture](https://www.youtube.com/watch?v=18IqltQ4XE4) - PyGotham 2018 talk by Sebastian Buczyński with [code](https://github.com/Enforcer/clean-architecture-example-1) and [slides](https://speakerdeck.com/enforcer/clean-architecture-in-python). There is also a [blog post](https://geek.justjoin.it/czysta-architektura-pythonie-stworzyc-testowalny-elastyczny-kod/) in Polish
 
 ## Code, code, code!
+
 [dry-python](https://github.com/dry-python) - A set of Python libraries for pluggable business logic components.
 
 [Ruby DDD Sample App](https://github.com/paulrayner/ddd_sample_app_ruby) - Port of DDD Sample Application written in Java in Ruby. Definitely worth reading.
@@ -108,6 +118,8 @@ So let's go!
 [abidria-api](https://github.com/jordifierro/abidria-api) - Django application written with clean architecture. There also an [article](https://engineering.21buttons.com/clean-architecture-in-django-d326a4ab86a9) by Jordi Fierro which explains architecture components and how they interact with each other.
 
 [Hanami](https://hanamirb.org/) - A good option out of the Rails world, Hanami is an emerging framework that encourages and helps to design DDD applications in Ruby. The [getting started guide](http://hanamirb.org/guides/1.1/getting-started/) references some DDD concepts and how they fit inside the framework.
+
+[Hexagonal Architecture + DDD + CQRS applied in PHP using Symfony 4](https://github.com/CodelyTV/cqrs-ddd-php-example)
 
 [Revents](https://github.com/emadb/revents) - A possibile implementation of a DDD/CQRS/ES in Ruby and Ruby on Rails
 
