@@ -95,6 +95,8 @@ So let's go!
 
 [Clean Architecture](https://www.youtube.com/watch?v=18IqltQ4XE4) - PyGotham 2018 talk by Sebastian Buczyński with [code](https://github.com/Enforcer/clean-architecture-example-1) and [slides](https://cleanarchitecture.io/wp-content/uploads/2018/10/slides.pdf?189db0&189db0). There is also a [blog post](https://breadcrumbscollector.tech/the-clean-architecture-in-python-how-to-write-testable-and-flexible-code/) in English
 
+[Domain Driven Design](https://www.youtube.com/watch?v=_CK5Kag7enw) - CODEiD 2018 talk by Артём Антоненко [@Antonyan](https://github.com/Antonyan). In Russian. There's also a repo - [PHP DDD Skeleton](https://github.com/Antonyan/ddd-skeleton), and other DDD-related projects under his github account.
+
 ## Code, code, code!
 
 [dry-python](https://github.com/dry-python) - A set of Python libraries for pluggable business logic components.
@@ -124,6 +126,8 @@ So let's go!
 [Revents](https://github.com/emadb/revents) - A possibile implementation of a DDD/CQRS/ES in Ruby and Ruby on Rails
 
 [DDD Rails Sample](https://github.com/mcapanema/ddd-rails-example) - project meant to be used as a start point for those who want to build Domain Driven Design applications in Rails.
+
+
 
 ## Paid training and workshops
 
