@@ -97,6 +97,8 @@ So let's go!
 
 [Domain Driven Design](https://www.youtube.com/watch?v=_CK5Kag7enw) - CODEiD 2018 talk by Артём Антоненко [@Antonyan](https://github.com/Antonyan). In Russian. There's also a repo - [PHP DDD Skeleton](https://github.com/Antonyan/ddd-skeleton), and other DDD-related projects under his github account.
 
+[Eventsourcing 101](https://www.youtube.com/watch?v=0l8vuYaaBUs) - the talk about event sourcing with live coding in Python by Bob Gregory. He codes an event sourced e-commerce basket from scratch.
+
 ## Code, code, code!
 
 [dry-python](https://github.com/dry-python) - A set of Python libraries for pluggable business logic components.
