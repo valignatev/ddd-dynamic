@@ -8,6 +8,8 @@ So let's go!
 
 [Domain-Driven Rails](https://blog.arkency.com/domain-driven-rails/) - a book by Robert Pankowecki & Arkency Team about DDD, CQRS, Event Sourcing related to Rails projects
 
+[Domain-Driven Design in PHP](https://leanpub.com/ddd-in-php) - Book by Carlos Buenosvinos, Christian Soronellas, and Keyvan Akbary about DDD and implement with PHP
+
 ## Stack exchange resources
 [Separation of business logic and data access in django](http://stackoverflow.com/q/12578908/3606603) - Python, Django
 
@@ -60,6 +62,8 @@ So let's go!
 [Hanami em Production – 2 anos depois](https://diariodebordo.creditas.com.br/hanami-em-production-2-anos-depois-parte-1/): post in Portuguese describing the experience of [Creditas](https://www.creditas.com.br/) at building and maintaining its core app (60k lines of code + 2m request/month) with DDD in Ruby using [Hanami](#user-content-hanami) framework.
 
 [How to Improve on Naming Contexts in Domain-Driven Design](https://userinterfacing.com/how-to-improve-on-naming-contexts-in-domain-driven-design/) - Describes technique of how to find a better name for your bounded contexts.
+
+[Implementing Domain-Driven Design in PHP](https://dzone.com/articles/implementing-domain-driven-design-in-php) - Introduce Domain Driven Design and how to Implementing in Laravel with PHP by Alireza Rahmani Khalili.
 
 ## Talks, videos
 
