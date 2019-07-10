@@ -133,6 +133,7 @@ So let's go!
 
 [DDD Rails Sample](https://github.com/mcapanema/ddd-rails-example) - project meant to be used as a start point for those who want to build Domain Driven Design applications in Rails.
 
+[Domain Driven Design Classes and Interfaces](https://github.com/ericksonreyes/domain-driven-design) - The project is a PHP sample collection of Domain Driven Design inspired Classes and Interfaces.
 
 
 ## Paid training and workshops
