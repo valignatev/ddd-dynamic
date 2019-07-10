@@ -65,7 +65,7 @@ So let's go!
 
 [Implementing Domain-Driven Design in PHP](https://dzone.com/articles/implementing-domain-driven-design-in-php) - Introduce Domain Driven Design and how to Implementing in Laravel with PHP by Alireza Rahmani Khalili.
 
-## Talks, videos
+## Talks, videos, Podcasts
 
 [Domain-Driven Design with Python](https://skillsmatter.com/skillscasts/5025-domain-driven-design-with-python) - Great talk about DDD and Python with explanations of many DDD topics and code examples by Robert Smallshire from Skills Matter
 
@@ -102,6 +102,8 @@ So let's go!
 [Domain Driven Design](https://www.youtube.com/watch?v=_CK5Kag7enw) - CODEiD 2018 talk by Артём Антоненко [@Antonyan](https://github.com/Antonyan). In Russian. There's also a repo - [PHP DDD Skeleton](https://github.com/Antonyan/ddd-skeleton), and other DDD-related projects under his github account.
 
 [Eventsourcing 101](https://www.youtube.com/watch?v=0l8vuYaaBUs) - the talk about event sourcing with live coding in Python by Bob Gregory. He codes an event sourced e-commerce basket from scratch.
+
+[Domain Driven Design For Python - Episode 219](https://www.pythonpodcast.com/domain-driven-design-episode-219/) - When your software projects start to scale it becomes a greater challenge to understand and maintain all of the pieces. In this episode Henry Percival shares his experiences working with domain driven design in large Python projects. 
 
 ## Code, code, code!
 
