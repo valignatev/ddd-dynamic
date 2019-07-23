@@ -105,6 +105,8 @@ So let's go!
 
 [Domain Driven Design For Python - Episode 219](https://www.pythonpodcast.com/domain-driven-design-episode-219/) - When your software projects start to scale it becomes a greater challenge to understand and maintain all of the pieces. In this episode Henry Percival shares his experiences working with domain driven design in large Python projects. 
 
+[Как мы уменьшили сложность наших проектов](https://www.youtube.com/watch?v=45rk0iyTn7I) - PyCon RU 2019 talk by Борис Цема (in Russian) about using DDD patterns to reduce Wargaming.net projects.
+
 ## Code, code, code!
 
 [dry-python](https://github.com/dry-python) - A set of Python libraries for pluggable business logic components.
