@@ -4,6 +4,9 @@ This is an attempt to collect all info about Domain Driven Design the World know
 So let's go!
 
 ## Books
+
+[Architecture Patterns with Python (aka "Cosmic Python")](https://github.com/python-leap/book/) - Book by Harry Percival and Bob Gregory featuring DDD and strategic patterns (forthcoming on O'Reilly, also available in [early release on safari]()https://learning.oreilly.com/library/view/enterprise-architecture-patterns/9781492052197/)
+
 [Clean Architectures in Python](https://leanpub.com/clean-architectures-in-python) - Book by Leonardo Giordani based on [his](http://blog.thedigitalcatonline.com/blog/2016/11/14/clean-architectures-in-python-a-step-by-step-example/) post
 
 [Domain-Driven Rails](https://blog.arkency.com/domain-driven-rails/) - a book by Robert Pankowecki & Arkency Team about DDD, CQRS, Event Sourcing related to Rails projects
