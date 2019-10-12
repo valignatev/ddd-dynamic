@@ -110,6 +110,8 @@ So let's go!
 
 [Как мы уменьшили сложность наших проектов](https://www.youtube.com/watch?v=45rk0iyTn7I) - PyCon RU 2019 talk by Борис Цема (in Russian) about using DDD patterns to reduce Wargaming.net projects.
 
+[Clean Architectures in Python](https://www.youtube.com/watch?v=wtCQalq7L-E) - PyLondinium19 talk by Leonardo Giordani
+
 ## Code, code, code!
 
 [dry-python](https://github.com/dry-python) - A set of Python libraries for pluggable business logic components.
