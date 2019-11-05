@@ -70,6 +70,8 @@ So let's go!
 
 ## Talks, videos, Podcasts
 
+[Events in Software, Process, and Reality](https://github.com/johnbywater/dddeu2019/blob/master/transcript/TRANSCRIPT.md) - Groundbreaking talk describing a new concept of an event, with reconsideration of events in software, process, design, and development.
+
 [Domain-Driven Design with Python](https://skillsmatter.com/skillscasts/5025-domain-driven-design-with-python) - Great talk about DDD and Python with explanations of many DDD topics and code examples by Robert Smallshire from Skills Matter
 
 [Domain-Driven Design Patterns in Python](https://www.youtube.com/watch?v=Ru2T4fu3bGQ) - Detailed talk about DDD patterns in Python by Robert Smallshire from EuroPython 2018
