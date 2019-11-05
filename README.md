@@ -114,6 +114,8 @@ So let's go!
 
 ## Code, code, code!
 
+[Event Sourcing in Python](https://github.com/johnbywater/eventsourcing) - Mature, stable, popular Python library for event sourcing and DDD.
+
 [dry-python](https://github.com/dry-python) - A set of Python libraries for pluggable business logic components.
 
 [Ruby DDD Sample App](https://github.com/paulrayner/ddd_sample_app_ruby) - Port of DDD Sample Application written in Java in Ruby. Definitely worth reading.
