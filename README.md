@@ -13,6 +13,8 @@ So let's go!
 
 [Domain-Driven Design in PHP](https://leanpub.com/ddd-in-php) - Book by Carlos Buenosvinos, Christian Soronellas, and Keyvan Akbary about DDD and implement with PHP
 
+[Event Sourced Building Blocks for Domain Driven Design with Python](https://leanpub.com/eventsourcedddesignwithpython) - This small book contains a concise pattern language for event sourced DDD in Python. This book focuses on reliable "building blocks" for DDD. It avoids reprising the "strategic" patterns of DDD. It takes a practical "bottom up" approach to making reliable, scalable, maintainable applications and systems. The preface includes a rejuventated consideration of pattern language as description of events. This is a small book, and isn't quite finished at this time.
+
 ## Stack exchange resources
 [Separation of business logic and data access in django](http://stackoverflow.com/q/12578908/3606603) - Python, Django
 
