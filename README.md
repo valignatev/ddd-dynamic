@@ -120,6 +120,10 @@ So let's go!
 
 [Event Sourcing in Python](https://github.com/johnbywater/eventsourcing) - Mature, stable, popular Python library for event sourcing and DDD.
 
+[real-world-domain-model](https://github.com/zarekr/python-real-world-domain-model) - Starts by building a domain model of a UK company using pure Python then adapts a TDD approach to add more detail, resulting in an accurate and complex domain layer that form the basis for other tutorials about the Event Sourcing in Python library (above).
+
+[python-eventsourcing-tutorial](https://github.com/zarekr/python-eventsourcing-tutorial) - Demonstrates how to use the Event Sourcing in Python library (above) step-by-step. 
+
 [dry-python](https://github.com/dry-python) - A set of Python libraries for pluggable business logic components.
 
 [Ruby DDD Sample App](https://github.com/paulrayner/ddd_sample_app_ruby) - Port of DDD Sample Application written in Java in Ruby. Definitely worth reading.
