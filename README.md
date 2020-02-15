@@ -70,7 +70,7 @@ So let's go!
 
 [Implementing Domain-Driven Design in PHP](https://dzone.com/articles/implementing-domain-driven-design-in-php) - Introduce Domain Driven Design and how to Implementing in Laravel with PHP by Alireza Rahmani Khalili.
 
-[Event Sorcery](https://www.eventsorcery.com) - Learn to build event sourced domain driven applications with Python.
+[Event Sorcery](https://www.eventsorcery.com) - Detailed blog with lengthy articles about building event sourced domain driven applications with Python. 
 
 ## Talks, videos, Podcasts
 
