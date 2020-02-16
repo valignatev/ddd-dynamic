@@ -70,6 +70,8 @@ So let's go!
 
 [Implementing Domain-Driven Design in PHP](https://dzone.com/articles/implementing-domain-driven-design-in-php) - Introduce Domain Driven Design and how to Implementing in Laravel with PHP by Alireza Rahmani Khalili.
 
+[Event Sorcery](https://www.eventsorcery.com) - Detailed blog with lengthy articles about building event sourced domain driven applications with Python. 
+
 ## Talks, videos, Podcasts
 
 [Domain-Driven Design with Python](https://skillsmatter.com/skillscasts/5025-domain-driven-design-with-python) - Great talk about DDD and Python with explanations of many DDD topics and code examples by Robert Smallshire from Skills Matter
@@ -117,6 +119,10 @@ So let's go!
 ## Code, code, code!
 
 [Event Sourcing in Python](https://github.com/johnbywater/eventsourcing) - Mature, stable, popular Python library for event sourcing and DDD.
+
+[real-world-domain-model](https://github.com/zarekr/python-real-world-domain-model) - Starts by building a domain model of a UK company using pure Python then adapts a TDD approach to add more detail, resulting in an accurate and complex domain layer that forms the basis for other tutorials on [eventsorcery.com](https://www.eventsorcery.com) about the Event Sourcing in Python library.
+
+[python-eventsourcing-tutorial](https://github.com/zarekr/python-eventsourcing-tutorial) - Demonstrates how to use the Event Sourcing in Python library step-by-step. 
 
 [dry-python](https://github.com/dry-python) - A set of Python libraries for pluggable business logic components.
 
