@@ -15,6 +15,8 @@ So let's go!
 
 [Event Sourced Building Blocks for Domain Driven Design with Python](https://leanpub.com/eventsourcedddesignwithpython) - This small book contains a concise pattern language for event sourced DDD in Python. This book focuses on reliable "building blocks" for DDD. It avoids reprising the "strategic" patterns of DDD. It takes a practical "bottom up" approach to making reliable, scalable, maintainable applications and systems. The preface includes a rejuventated consideration of pattern language as description of events. This is a small book, and isn't quite finished at this time.
 
+[Implementing the Clean Architecture](https://leanpub.com/implementing-the-clean-architecture) - a book focusing on practical aspects of implementing the Clean Architecture. It is heavily illustrated by code snippets in Python. Apart from the Clean Architecture itself, it also introduces other software engineering patterns, like modularity, Dependency Injection. CQRS or Event Sourcing. 
+
 ## Stack exchange resources
 [Separation of business logic and data access in django](http://stackoverflow.com/q/12578908/3606603) - Python, Django
 
@@ -139,6 +141,8 @@ So let's go!
 [Kanban in Python exercises](https://bitbucket.org/sixty-north/d5-workshop-exercises-student-material) - Same board devided on exercises for students of some workshop by Sixty-North. 
 
 [Rewind](https://github.com/JensRantil/rewind) - Rewind is a (CQRS) event store server written in Python. Not that it written with DDD approach but still related.
+
+[The Clean Architecture example application (python)](https://github.com/Enforcer/clean-architecture) - Repository with example modular application written in Python. The code is used in Implementing the Clean Architeure book.
 
 [The Clean Architecture with Python](https://www.reddit.com/r/Python/comments/41llbh/the_clean_architecture_with_python/) - Reddit discussion about the topic and [this](https://gist.github.com/justanr/1f38e09caad47bd0d927) gist with proposed architecture and some comments on it.
 
