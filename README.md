@@ -158,6 +158,8 @@ So let's go!
 
 [Domain Driven Design Classes and Interfaces](https://github.com/ericksonreyes/domain-driven-design) - The project is a PHP sample collection of Domain Driven Design inspired Classes and Interfaces.
 
+[DDD CQRS ES Banking Application](https://github.com/Hyaxia/Bank-DDD-CQRS-ES) - Banking application following DDD rules, using Clean Architecture, Event Sourcing and CQRS.
+
 
 ## Paid training and workshops
 
