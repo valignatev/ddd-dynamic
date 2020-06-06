@@ -134,6 +134,8 @@ So let's go!
 
 [DDD in Flask](https://github.com/MichaelDiBernardo/ddd-flask-example) - A terse example of DDD-inspired architecture using Flask
 
+[DDD in Falcon](https://gitlab.com/raphacosta/falconify) - A simple implementation of DDD and hexagonal architecture in Falcon with a few batteries included.
+
 [Kanban in Python](https://bitbucket.org/sixty-north/d5-kanban-python) - Python implementation of simple kanban board with DDD approach.
 
 [Kanban in Clojure](https://bitbucket.org/sixty-north/d5-kanban-clojure) - Same in Clojure
