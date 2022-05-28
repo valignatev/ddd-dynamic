@@ -58,7 +58,7 @@ So let's go!
 
 [Clean architectures in Python: a step-by-step example](http://blog.thedigitalcatonline.com/blog/2016/11/14/clean-architectures-in-python-a-step-by-step-example/) - Implementation of Uncle Bob's Clean Architecture in Python. Contains step by step explanation and github repo with all code.
 
-[DDD with Ports and Adapters in Python](https://io.made.com/blog/2017-09-07-introducing-command-handler.html) from the made.com tech blog, followed by [Repository and Unit of Work Pattern in Python](https://io.made.com/blog/2017-09-08-repository-and-unit-of-work-pattern-in-python.html), [CQRS / Handlers and Views](https://io.made.com/blog/2017-09-13-commands-and-queries-handlers-and-views.html) and [Why use Domain Events?](https://io.made.com/blog/2017-09-19-why-use-domain-events.html)
+[Introducing Command Handler](https://www.cosmicpython.com/blog/2017-09-07-introducing-command-handler.html) on https://www.cosmicpython.com/ (formerly on the made.com tech blog), followed by  [Repository and Unit of Work Pattern in Python](https://www.cosmicpython.com/blog/2017-09-08-repository-and-unit-of-work-pattern-in-python.html), [CQRS / Handlers and Views](https://www.cosmicpython.com/blog/2017-09-13-commands-and-queries-handlers-and-views.html) and [Why use Domain Events?](https://www.cosmicpython.com/blog/2017-09-19-why-use-domain-events.html)
 
 [Large web apps in Python: A good architecture](http://dev.nando.audio/2014/04/01/large_apps_with_sqlalchemy__architecture.html) - Article with a point that MVC is not enough for large applications and you need separate layer for business logic.
 
