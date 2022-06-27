@@ -72,7 +72,9 @@ So let's go!
 
 [Implementing Domain-Driven Design in PHP](https://dzone.com/articles/implementing-domain-driven-design-in-php) - Introduce Domain Driven Design and how to Implementing in Laravel with PHP by Alireza Rahmani Khalili.
 
-[Event Sorcery](https://www.eventsorcery.com) - Detailed blog with lengthy articles about building event sourced domain driven applications with Python. 
+[Event Sorcery](https://www.eventsorcery.com) - Detailed blog with lengthy articles about building event sourced domain driven applications with Python.
+
+[How to get started DDD & Onion-Architecture in Python web application](https://iktakahiro.dev/python-ddd-onion-architecture) - Quite self-explanatory title of the blog post by Takahiro Ikeuchi. Including [github repo](https://github.com/iktakahiro/dddpy) with the idea implementation.
 
 ## Talks, videos, Podcasts
 
