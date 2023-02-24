@@ -76,6 +76,8 @@ So let's go!
 
 [How to get started DDD & Onion-Architecture in Python web application](https://iktakahiro.dev/python-ddd-onion-architecture) - Quite self-explanatory title of the blog post by Takahiro Ikeuchi. Including [github repo](https://github.com/iktakahiro/dddpy) with the idea implementation.
 
+[Hands-on example of Hexagonal Architecture with Python usage (FastAPI example included)](https://blog.szymonmiks.pl/p/hexagonal-architecture-in-python/) - Article about Hexagonal Architecture, explaining the basics and showing the code examples.
+
 ## Talks, videos, Podcasts
 
 [Domain-Driven Design with Python](https://skillsmatter.com/skillscasts/5025-domain-driven-design-with-python) - Great talk about DDD and Python with explanations of many DDD topics and code examples by Robert Smallshire from Skills Matter
@@ -159,6 +161,8 @@ So let's go!
 [Domain Driven Design Classes and Interfaces](https://github.com/ericksonreyes/domain-driven-design) - The project is a PHP sample collection of Domain Driven Design inspired Classes and Interfaces.
 
 [DDD CQRS ES Banking Application](https://github.com/Hyaxia/Bank-DDD-CQRS-ES) - Banking application following DDD rules, using Clean Architecture, Event Sourcing and CQRS.
+
+[The Hexagonal Architecture example application (python, with FastAPI)](https://github.com/szymon6927/hexagonal-architecture-python]) - example application written in Python on top of FastAPI web framework, using Hexagonal Architecture principles.
 
 
 ## Paid training and workshops
