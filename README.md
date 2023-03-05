@@ -170,3 +170,5 @@ So let's go!
 [DDD Patterns in Python](http://sixty-north.com/domain_driven_design_in_python.html) - Sixty North offers two-day classroom training on implementing DDD in Python with relational or event-sourced persistence.
 
 [Rails + Domain Driven Design Workshop](https://blog.arkency.com/ddd-training/) - workshops by Arkency. The page should have a schedule for future workshops and a summary of what to expect from them.
+
+[EventStorming Fundamentals Course](https://elearning.dsolemorera.com/courses/eventstorming-fundamentals) ([also in Spanish](https://elearning.dsolemorera.com/courses/fundamentos-eventstorming)) - learn the EventStorming fundamentals to design software with a DDD mindset to later implement it with any dynamic programming language.
