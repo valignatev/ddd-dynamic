@@ -162,7 +162,7 @@ So let's go!
 
 [DDD CQRS ES Banking Application](https://github.com/Hyaxia/Bank-DDD-CQRS-ES) - Banking application following DDD rules, using Clean Architecture, Event Sourcing and CQRS.
 
-[The Hexagonal Architecture example application (python, with FastAPI)](https://github.com/szymon6927/hexagonal-architecture-python]) - example application written in Python on top of FastAPI web framework, using Hexagonal Architecture principles.
+[The Hexagonal Architecture example application (python, with FastAPI)](https://github.com/szymon6927/hexagonal-architecture-python) - example application written in Python on top of FastAPI web framework, using Hexagonal Architecture principles.
 
 
 ## Paid training and workshops
